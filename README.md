@@ -1,11 +1,21 @@
+# Deliverable 1: Planning our Analysis
+
 # Video Games Analysis
 Git Repository for Project Group 4 
 
 Link to dataset: https://www.kaggle.com/datasets/thedevastator/discovering-hidden-trends-in-global-video-games 
 
-Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video+Games+Sales.csv
-
 Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
+
+# Project Overview & Selected Topic
+- Can we predict global revenues within the first year of a new game's release? Discover the key features for rev. predictions
+- Is there a direct connection between score, rating, & sales?
+
+# List of Technologies Used
+- Python
+- SQL
+- Tableau
+- AWS
 
 # Cleaning the Data Set
 - Drop null values
@@ -18,3 +28,4 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 - Best selling genre by market
 - Games/genres by revenue
 - Games/genres by user/critic score
+- Sales by genre by region
