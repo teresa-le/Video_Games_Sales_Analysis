@@ -9,3 +9,5 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
 # Potential analysis
 - Best selling genre by market
+- Games/genres by revenue
+- Games/genres by user/critic score
