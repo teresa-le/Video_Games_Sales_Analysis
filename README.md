@@ -11,6 +11,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 - Drop null values
 - Drop columns: Critic Count, User Count, Developer, Rating
 - Normalize critic score and user score
+- Weighted average of Revenues per year to directly compare
 
 # Potential analysis
 - Best selling genre by market
