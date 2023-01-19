@@ -7,6 +7,11 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video+Games+Sal
 
 Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
+# Cleaning the Data Set
+- Drop null values
+- Drop columns: Critic Count, User Count, Developer, Rating
+- Normalize critic score and user score
+
 # Potential analysis
 - Best selling genre by market
 - Games/genres by revenue
