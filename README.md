@@ -25,7 +25,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 - Drop null values
 - Drop columns: Critic Count, User Count, Developer, Rating (Alternatively try filling in null values with averages of the column)
 - Normalize critic score and user score
-- Weighted average of Revenues per year for direct comparisons between games - ie 50% (arbitrary) of revenue comes within the first year
+- Weighted average of Revenues per year for direct comparisons between games - ie 80% of revenue comes within the first year
 
 # Proposed ML Model:
 We are designing a model to predict the revenues of videogames by geography and ultimately global. First, we are examining the statistical relationship of the data set's features to determine relevance. Then we will employ a linear regression model to predict video game revenues. We will examine different methods to improve the accuracy of our model by altering label encoding, dropping variables, and can also change how data points are grouped.
