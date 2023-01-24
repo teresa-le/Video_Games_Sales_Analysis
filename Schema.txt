@@ -1,6 +1,6 @@
 Games
 -
-Name PK VARCHAR(100) FK - Ratings.Name
+Name PK VARCHAR(100) 
 Platform VARCHAR(4) 
 Year_of_Release int 
 Genre VARCHAR(50)
@@ -10,7 +10,7 @@ Rating VARCHAR(4)
 
 Sales 
 - 
-Name FK VARCHAR(100) - Games.Name 
+Name VARCHAR(100) FK - Games.Name 
 NA_Sales int 
 EU_Sales int 
 JP_Sales int 
@@ -19,7 +19,7 @@ Global_Sales int
 
 Ratings 
 - 
-Name FK VARCHAR(100) - Games.Name 
+Name VARCHAR(100) FK - Games.Name 
 Critic_Score int 
 Critic_Count int 
 User_Score int 
