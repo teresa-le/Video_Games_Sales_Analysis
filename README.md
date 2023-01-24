@@ -11,7 +11,9 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 - Can we predict global revenues within the first year of a new game's release? Discover the key features for rev. predictions
 - Is there a direct connection between score, rating, & sales?
 
-
+# Dataset Description & Why we select this?
+- Our dataset holds all the video games launched from 1980 to 2020. Columns include game features like genre, launch year, publishers, sales my market, critic and user scores etc., which will allow us to understand the gaming industry and popular games over year.
+- We are selecting this data because we are interested in gaming indusrtry and would love to find out what are the factors make games stand out from more than 15k competitors by looking at their revenue and scores.
 
 # List of Technologies Used
 - Python
