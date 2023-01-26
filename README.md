@@ -20,7 +20,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 - SQL
 - Tableau
 - R
-- AWS
+- PgAdmin
 
 # Cleaning the Data Set
 - Drop null values
