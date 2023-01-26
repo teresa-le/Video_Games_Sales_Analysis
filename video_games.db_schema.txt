@@ -5,3 +5,33 @@ CREATE DATABASE video_games
     CONNECTION LIMIT = -1
     IS_TEMPLATE = False;
 
+CREATE TABLE "Games" (
+	"Name" varchar(100)   NOT NULL,
+	"Platform" varchar(4),
+	"Year_of_Release" int, 
+	"Genre" varchar(50), 
+	"Publisher" varchar(100), 
+	"Developer" varchar(100), 
+	"Rating" varchar(4),
+    CONSTRAINT "pk_Games" PRIMARY KEY ("Name")
+);
+
+CREATE TABLE "Sales" (
+	"Name" varchar(100)   NOT NULL,
+	"NA_Sales" int,
+	"EU_Sales" int,
+	"JP_Sales" int,
+	"Other_Sales" int,
+	"Global_Sales" int,
+    CONSTRAINT "pk_Sales" FOREIGN KEY ("Name") REFERENCES "Games" ("Name") 
+);
+
+CREATE TABLE "Ratings" (
+"Name" varchar(100),
+"Critic_Score" int,
+"Critic_Count" int,
+"User_Score" int,
+"User_Count" int,
+CONSTRAINT "pk_Ratings" FOREIGN KEY ("Name") REFERENCES "Games" ("Name")
+);
+
