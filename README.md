@@ -56,5 +56,6 @@ We are designing a model to predict the revenues of videogames by geography and 
 - Models
 - How we improved the model
 ## Results
+- Prediction results
 - Accuracy score
 - Visuals
