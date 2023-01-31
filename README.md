@@ -36,3 +36,9 @@ We are designing a model to predict the revenues of videogames by geography and 
 - Best selling genre by market
 - User/critic score by games/genres
 - Sales by genre by region
+
+# Presentation Structure
+## Project Overview
+## Questions Answered
+## Methodology
+## Results
