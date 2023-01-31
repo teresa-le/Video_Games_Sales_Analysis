@@ -52,10 +52,10 @@ We are designing a model to predict the revenues of videogames by geography and 
 - Can we predict global revenues within the first year of a new game's release? Discover the key features for rev. predictions
 - Is there a direct connection between score, rating, & sales?
 ## Methodology
-- Tools
-- Models
+- Tools we use
+- Models we use
 - How we improved the model
 ## Results
 - Prediction results
 - Accuracy score
-- Visuals
+- Visuals from both Python and Tableau
