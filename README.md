@@ -41,6 +41,13 @@ We are designing a model to predict the revenues of videogames by geography and 
 ## Project Overview
 - Dataset overview (where we started)
 - Why we selected this topic
+
+## Interesting Highlights
+- Bestselling game globally and it's platform
+- Top user score game globally and it's platform
+- Top critic score game globally and it's platform
+- Top genre by each market
+
 ## Questions Answered
 - Can we predict global revenues within the first year of a new game's release? Discover the key features for rev. predictions
 - Is there a direct connection between score, rating, & sales?
