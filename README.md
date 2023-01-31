@@ -39,6 +39,15 @@ We are designing a model to predict the revenues of videogames by geography and 
 
 # Presentation Structure
 ## Project Overview
+- Dataset overview (where we started)
+- Why we selected this topic
 ## Questions Answered
+- Can we predict global revenues within the first year of a new game's release? Discover the key features for rev. predictions
+- Is there a direct connection between score, rating, & sales?
 ## Methodology
+- Tools
+- Models
+- How we improved the model
 ## Results
+- Accuracy score
+- Visuals
