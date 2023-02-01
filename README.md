@@ -9,9 +9,11 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
 ## List of Files 
 
-<a href="https://github.com/bbinvt/project-group-4/blob/main/clean_videogamesales.csv">Clean dataset (clean_videogamesales.csv)</a> 
+<a href="https://github.com/bbinvt/project-group-4/blob/main/clean_videogamesales.csv">Clean dataset (clean_videogamesales2.csv)</a> 
+<a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales2.csv">Dataset with categorical variables encoded</a> 
 <a href="https://github.com/bbinvt/project-group-4/blob/main/clean_videogamesales.ipynb">Notebook for producing clean dataset (clean_videogamesales.ipynb)</a>  
-<a href="https://github.com/bbinvt/project-group-4/blob/main/ERD.PNG">ERD Diagram</a>
+<a href="https://github.com/bbinvt/project-group-4/tree/main/Database">Database files including ERD</a> 
+<a href="https://github.com/bbinvt/project-group-4/tree/main/Visuals">Data visualizations</a>
 
 
 # Deliverable 1: Planning our Analysis
@@ -55,7 +57,7 @@ We are designing a model to predict the revenues of videogames by geography and 
 
 ## Visualizations 
 
-<img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Games%20by%20Year%20of%20Release.png>
+<img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Games%20by%20Year%20of%20Release.png">
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Gaming%20Industry%20Overview.png">
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Top%20Game%20Publishers.png"> 
 
