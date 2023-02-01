@@ -9,11 +9,18 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
 ## List of Files 
 
-<a href="https://github.com/bbinvt/project-group-4/blob/main/clean_videogamesales.csv">Clean dataset (clean_videogamesales2.csv)</a> 
-<a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales2.csv">Dataset with categorical variables encoded</a> 
-<a href="https://github.com/bbinvt/project-group-4/blob/main/clean_videogamesales.ipynb">Notebook for producing clean dataset (clean_videogamesales.ipynb)</a>  
-<a href="https://github.com/bbinvt/project-group-4/tree/main/Database">Database files including ERD</a> 
-<a href="https://github.com/bbinvt/project-group-4/tree/main/Visuals">Data visualizations</a>
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/clean_videogamesales.csv">Clean dataset</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales2.csv">Dataset with categorical variables encoded</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales3.csv">Dataset with Genre and Rating one-hot encoded</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales4.csv">Dataset with Genre, Rating, Publisher, Platform one-hot encoded</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales_EXTRA.csv">Dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/clean_videogamesales2.ipynb">Data
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/clean_videogamesales.ipynb">Notebook for producing clean dataset</a>  
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep2.ipynb">Notebook for producing dataset with categorical variables encoded</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep3.ipynb">Notebook for producing dataset with Genre and Rating one-hot encoded</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales_EXTRA.csv](https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep_EXTRA.ipynb">Notebook for producing dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
+* <a href="https://github.com/bbinvt/project-group-4/tree/main/Database">Database files including ERD</a> 
+* <a href="https://github.com/bbinvt/project-group-4/tree/main/Visuals">Data visualizations</a>
 
 
 # Deliverable 1: Planning our Analysis
