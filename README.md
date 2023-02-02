@@ -9,7 +9,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
 ## List of Files 
 
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/clean_videogamesales2.csv">Clean dataset</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/clean_videogamesales.csv">Clean dataset</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales2.csv">Dataset with categorical variables encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales3.csv">Dataset with Genre and Rating one-hot encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales4.csv">Dataset with Genre, Rating, Publisher, Platform one-hot encoded</a> 
@@ -68,7 +68,7 @@ We are designing a model to predict the revenues of videogames by geography and 
 - User/critic score by games/genres
 - Sales by genre by region
 
-# Deliverable 2: Building and Assemlbing the Pieces
+# Deliverable 2: Building and Assembling the Pieces
 
 ## Important Candidate Features
 Through R, we saw that the statistically important features are as follows: 
@@ -85,7 +85,7 @@ Of those features, Rating was less significant than the other features.
 ## Preliminary Analysis of Early Models 
 Linear regression models were used to predict global sales. The linear regression models performed quite poorly in general; the R2 value or the amount of variance that could be explained by the features varied from 6.3% to 17.1% depending on the features and type of encoding and binning used.
  
-Using XG Boost to predict global sales has so far provided far better results. The best results so far have been an R2 value of 0.402 i.e. 40.2% of the variance can be explained by the features. 
+Using XG Boost to predict global sales has so far provided far better results. The best results so far have been an R2 value of 0.402 i.e. 40.2% of the variance can be explained by the features. For that model, the features that were used to predict global sales were Years_On_Market, Critic_Score, User_Score, Genre, Rating and Publisher, and Platform (with the last 4 features being one-hot encoded).
 
 ## Preliminary Visualizations 
 
