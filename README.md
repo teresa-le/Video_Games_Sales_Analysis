@@ -14,10 +14,19 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales3.csv">Dataset with Genre and Rating one-hot encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales4.csv">Dataset with Genre, Rating, Publisher, Platform one-hot encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales_EXTRA.csv">Dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/vgsales_EU_Action.csv">Dataset for EU Action Games</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/vgsales_JP_ROLEPLAY.csv">Dataset for JP Roleplay Games</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/vgsales_NA_Action.csv">Dataset for NA Action Games</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales_TOP10PUB.csv">Dataset for Top 10 Publishers</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/videogamesales_PDA.ipynb">Preliminary Data Analysis</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/clean_videogamesales2.ipynb">Notebook for producing clean dataset</a>
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep2.ipynb">Notebook for producing dataset with categorical variables encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep3.ipynb">Notebook for producing dataset with Genre and Rating one-hot encoded</a> 
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales_EXTRA.csv](https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep_EXTRA.ipynb">Notebook for producing dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep_EXTRA.ipynb">Notebook for producing dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_EU_ACTION.ipynb">Notebook for producing dataset for Action Games for EU</a>
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_JP_ROLEPLAY.ipynb">Notebook for producing dataset for Roleplay Games for JP</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_NA_ACTION.ipynb">Notebook for producing dataset for Action Games for NA</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep_TOP10PUB.ipynb">Notebook for producing dataset for Top 10 Publishers
 * <a href="https://github.com/bbinvt/project-group-4/tree/main/Database">Database files including ERD</a> 
 * <a href="https://github.com/bbinvt/project-group-4/tree/main/Visuals">Data visualizations</a>
 * <a href="https://github.com/bbinvt/project-group-4/blob/deeb1e6327dc76d317e207aba2160981afbd360f/model_predictions.ipynb"> Model Predictions Notebook</a>
@@ -42,7 +51,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
 ## ERD 
 The dataset has been divided into three tables: Games, Sales and Ratings. 
-<img src="https://github.com/bbinvt/project-group-4/blob/main/ERD.PNG">
+<https://github.com/bbinvt/project-group-4/blob/main/Database/ERD.PNG">
 
 ## Cleaning the Data Set
 - Drop null values
@@ -67,6 +76,11 @@ Through R, we saw that the statistically important features are as follows:
 * Critic Score
 * User Score
 * Rating
+
+<img src="https://github.com/bbinvt/project-group-4/blob/main/Modeling/Regression%20Model%20-%20Summary.PNG"> 
+
+## Preliminary Analysis of Early Models 
+
 
 ## Visualizations 
 
