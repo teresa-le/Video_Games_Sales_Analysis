@@ -93,8 +93,6 @@ Using XG Boost to predict global sales has so far provided far better results. T
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Gaming%20Industry%20Overview.png">
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Top%20Game%20Publishers.png"> 
 
-# Deliverable 3 
-  
 ## Presentation Structure
 ### Project Overview
 - Dataset overview (where we started)
