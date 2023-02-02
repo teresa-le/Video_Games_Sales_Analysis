@@ -29,7 +29,8 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep_TOP10PUB.ipynb">Notebook for producing dataset for Top 10 Publishers
 * <a href="https://github.com/bbinvt/project-group-4/tree/main/Database">Database files including ERD</a> 
 * <a href="https://github.com/bbinvt/project-group-4/tree/main/Visuals">Data visualizations</a>
-* <a href="https://github.com/bbinvt/project-group-4/blob/deeb1e6327dc76d317e207aba2160981afbd360f/model_predictions.ipynb"> Model Predictions Notebook</a>
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Modeling/model_predictions.ipynb"> Model Predictions Notebook</a>
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Modeling/Model%20Analysis%20using%20R.R"> Modeling using R</a> 
 
 
 # Deliverable 1: Planning our Analysis
@@ -51,7 +52,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
 ## ERD 
 The dataset has been divided into three tables: Games, Sales and Ratings. 
-<https://github.com/bbinvt/project-group-4/blob/main/Database/ERD.PNG">
+<"https://github.com/bbinvt/project-group-4/blob/main/Database/ERD.PNG">
 
 ## Cleaning the Data Set
 - Drop null values
@@ -76,18 +77,24 @@ Through R, we saw that the statistically important features are as follows:
 * Critic Score
 * User Score
 * Rating
+  
+Of those features, Rating was less significant than the other features.
 
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Modeling/Regression%20Model%20-%20Summary.PNG"> 
 
 ## Preliminary Analysis of Early Models 
+Linear regression models were used to predict global sales. The linear regression models performed quite poorly in general; the R2 value or the amount of variance that could be explained by the features varied from 6.3% to 17.1% depending on the features and type of encoding and binning used.
+ 
+Using XG Boost to predict global sales has so far provided far better results. The best results so far have been an R2 value of 0.402 i.e. 40.2% of the variance can be explained by the features. 
 
-
-## Visualizations 
+## Preliminary Visualizations 
 
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Games%20by%20Year%20of%20Release.png">
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Gaming%20Industry%20Overview.png">
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Top%20Game%20Publishers.png"> 
 
+# Deliverable 3 
+  
 ## Presentation Structure
 ### Project Overview
 - Dataset overview (where we started)
