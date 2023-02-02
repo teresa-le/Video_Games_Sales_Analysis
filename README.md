@@ -20,7 +20,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales_EXTRA.csv](https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep_EXTRA.ipynb">Notebook for producing dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
 * <a href="https://github.com/bbinvt/project-group-4/tree/main/Database">Database files including ERD</a> 
 * <a href="https://github.com/bbinvt/project-group-4/tree/main/Visuals">Data visualizations</a>
-* <a href="https://github.com/bbinvt/project-group-4/blob/deeb1e6327dc76d317e207aba2160981afbd360f/model_predictions.ipynb" Model Predictions</a>
+* <a href="https://github.com/bbinvt/project-group-4/blob/deeb1e6327dc76d317e207aba2160981afbd360f/model_predictions.ipynb"> Model Predictions Notebook</a>
 
 
 # Deliverable 1: Planning our Analysis
