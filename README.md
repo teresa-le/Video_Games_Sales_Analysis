@@ -60,6 +60,12 @@ We are designing a model to predict the revenues of videogames by geography and 
 # Deliverable 2: Building and Assemlbing the Pieces
 
 ## Important Candidate Features
+Through R, we saw that the statistically important features are as follows: 
+* Platform
+* Genre
+* Critic Score
+* User Score
+* Rating
 
 ## Visualizations 
 
