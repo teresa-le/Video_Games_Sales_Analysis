@@ -19,7 +19,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/vgsales_NA_Action.csv">Dataset for NA Action Games</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales_TOP10PUB.csv">Dataset for Top 10 Publishers</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/videogamesales_PDA.ipynb">Preliminary Data Analysis</a> 
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/clean_videogamesales2.ipynb">Notebook for producing clean dataset</a>
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/clean_videogamesalesREAL.ipynb">Notebook for producing clean dataset</a>
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep2.ipynb">Notebook for producing dataset with categorical variables encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep3.ipynb">Notebook for producing dataset with Genre and Rating one-hot encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep_EXTRA.ipynb">Notebook for producing dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
