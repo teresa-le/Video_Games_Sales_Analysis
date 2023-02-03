@@ -9,7 +9,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
 ## List of Files 
 
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/clean_videogamesales.csv">Clean dataset</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/clean_videogamesalesREAL.csv">Clean dataset</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales2.csv">Dataset with categorical variables encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales3.csv">Dataset with Genre and Rating one-hot encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales4.csv">Dataset with Genre, Rating, Publisher, Platform one-hot encoded</a> 
