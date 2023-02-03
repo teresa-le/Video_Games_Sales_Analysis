@@ -13,7 +13,6 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales2.csv">Dataset with categorical variables encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales3.csv">Dataset with Genre and Rating one-hot encoded</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales4.csv">Dataset with Genre, Rating, Publisher, Platform one-hot encoded</a> 
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/regreadyvgsales_EXTRA.csv">Dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/vgsales_EU_Action.csv">Dataset for EU Action Games</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/vgsales_JP_ROLEPLAY.csv">Dataset for JP Roleplay Games</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/vgsales_NA_Action.csv">Dataset for NA Action Games</a> 
@@ -21,8 +20,7 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/videogamesales_PDA.ipynb">Preliminary Data Analysis</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/clean_videogamesalesREAL.ipynb">Notebook for producing clean dataset</a>
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep2.ipynb">Notebook for producing dataset with categorical variables encoded</a> 
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprepREAL.ipynb">Notebook for producing dataset with Genre and Rating one-hot encoded</a> 
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprep_EXTRA.ipynb">Notebook for producing dataset with Genre, Rating, Publisher, Platform one-hot encoded (Difference in binning)</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_regressionprepREAL.ipynb">Notebook for producing dataset with Genre and Rating one-hot encoded</a>
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_EU_ACTION.ipynb">Notebook for producing dataset for Action Games for EU</a>
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_JP_ROLEPLAY.ipynb">Notebook for producing dataset for Roleplay Games for JP</a> 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Notebooks%20-%20Preparing%20Data/vgsales_NA_ACTION.ipynb">Notebook for producing dataset for Action Games for NA</a> 
