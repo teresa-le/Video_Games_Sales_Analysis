@@ -55,7 +55,7 @@ The dataset has been divided into three tables: Games, Sales and Ratings.
 ## Cleaning the Data Set
 - Drop null values
 - Drop columns: Critic Count, User Count, Developer, Rating (Alternatively try filling in null values with averages of the column)
-- Normalize critic score and user score
+- Normalize critic score and revenue 
 - Weighted average of Revenues per year for direct comparisons between games - ie 80% of revenue comes within the first year
 
 ## Proposed ML Model:
