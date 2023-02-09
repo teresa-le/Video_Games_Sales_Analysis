@@ -72,13 +72,12 @@ We are designing a model to predict the revenues of videogames by geography and 
 
 ## Important Candidate Features
 Through R, we saw that the statistically important features are as follows: 
-* Platform
-* Genre
-* Critic Score
-* User Score
-* Rating
-  
-Of those features, Rating was less significant than the other features.
+1. Years_on_Market
+1. Critic_Score
+3. Genre
+3. User_Score
+5. Publisher
+5. Rating
 
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Modeling/Regression%20Model%20-%20Summary.PNG"> 
 
