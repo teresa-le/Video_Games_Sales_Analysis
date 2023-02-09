@@ -110,6 +110,8 @@ Through R, we saw that the statistically important features are as follows:
 - Accuracy score
 - Visuals from both Python and Tableau
 
+# Deliverable 3: Put it All Together
+
 ## Results 
 Linear regression models were used to predict global sales. The linear regression models performed quite poorly in general; the R2 value or the amount of variance that could be explained by the features varied from 6.3% to 17.1% depending on the features and type of encoding and binning used.
  
@@ -117,3 +119,8 @@ Using XG Boost to predict global sales has so far provided far better results. T
 
 By creating models to predict sales for specific regions and genre of games, we were able to create high performing models with the highest performing model being the model used to predict North American action genre games (R squared score of 82.2%). 
 
+## Presentation
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data%20Project-Group%204_final%20version.pptx">Presentation</a> 
+
+## Dashboard & Expansion of Visualizations
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Video%20game_Tableau_projectgroup4.twbx">Dashboard</a>
