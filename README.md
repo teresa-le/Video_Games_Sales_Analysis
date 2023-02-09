@@ -29,6 +29,8 @@ Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 * <a href="https://github.com/bbinvt/project-group-4/tree/main/Visuals">Data visualizations</a>
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Modeling/model_predictions.ipynb"> Model Predictions Notebook</a>
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Modeling/Model%20Analysis%20using%20R.R"> Modeling using R</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data%20Project-Group%204_final%20version.pptx">Presentation</a> 
+* <a href="https://github.com/bbinvt/project-group-4/blob/main/Video%20game_Tableau_projectgroup4.twbx">Dashboard</a>
 
 
 # Deliverable 1: Planning our Analysis
@@ -80,11 +82,6 @@ Of those features, Rating was less significant than the other features.
 
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Modeling/Regression%20Model%20-%20Summary.PNG"> 
 
-## Preliminary Analysis of Early Models 
-Linear regression models were used to predict global sales. The linear regression models performed quite poorly in general; the R2 value or the amount of variance that could be explained by the features varied from 6.3% to 17.1% depending on the features and type of encoding and binning used.
- 
-Using XG Boost to predict global sales has so far provided far better results. The best results so far have been an R2 value of 0.402 i.e. 40.2% of the variance can be explained by the features. For that model, the features that were used to predict global sales were Years_On_Market, Critic_Score, User_Score, Genre, Rating and Publisher, and Platform (with the last 4 features being one-hot encoded).
-
 ## Preliminary Visualizations 
 
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Games%20by%20Year%20of%20Release.png">
@@ -113,3 +110,11 @@ Using XG Boost to predict global sales has so far provided far better results. T
 - Prediction results
 - Accuracy score
 - Visuals from both Python and Tableau
+
+## Results 
+Linear regression models were used to predict global sales. The linear regression models performed quite poorly in general; the R2 value or the amount of variance that could be explained by the features varied from 6.3% to 17.1% depending on the features and type of encoding and binning used.
+ 
+Using XG Boost to predict global sales has so far provided far better results. The best results so far have been an R2 value of 0.402 i.e. 40.2% of the variance can be explained by the features. For that model, the features that were used to predict global sales were Years_On_Market, Critic_Score, User_Score, Genre, Rating and Publisher, and Platform (with the last 4 features being one-hot encoded).
+
+By creating models to predict sales for specific regions and genre of games, we were able to create high performing models with the highest performing model being the model used to predict North American action genre games (R squared score of 82.2%). 
+
