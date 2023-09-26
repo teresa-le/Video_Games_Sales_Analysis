@@ -1,5 +1,4 @@
 # Video Games Analysis
-Git Repository for Project Group 4 
 
 ## Link to Data 
 
