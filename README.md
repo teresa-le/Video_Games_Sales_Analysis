@@ -6,6 +6,11 @@ Link to dataset: https://www.kaggle.com/datasets/thedevastator/discovering-hidde
 
 Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
+
+## Presentation
+* <a href="https://docs.google.com/presentation/d/1tw7y1NylUlLf1n8iD6ERa7-aroHX6gr8/edit?usp=sharing&ouid=108620003158556993566&rtpof=true&sd=true">Presentation</a> 
+
+
 ## List of Files 
 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/clean_videogamesalesREAL.csv">Clean dataset</a> 
@@ -118,8 +123,6 @@ Using XG Boost to predict global sales has so far provided far better results. T
 
 By creating models to predict sales for specific regions and genre of games, we were able to create high performing models with the highest performing model being the model used to predict North American action genre games (R squared score of 82.2%). 
 
-## Presentation
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data%20Project-Group%204_final%20version.pptx">Presentation</a> 
 
 ## Dashboard & Expansion of Visualizations
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Video%20game_Tableau_projectgroup4.twbx">Dashboard</a>
