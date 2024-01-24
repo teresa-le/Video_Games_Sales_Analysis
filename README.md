@@ -85,34 +85,11 @@ Through R, we saw that the statistically important features are as follows:
 
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Modeling/Regression%20Model%20-%20Summary.PNG"> 
 
-## Preliminary Visualizations 
+## Visualizations 
 
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Games%20by%20Year%20of%20Release.png">
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Gaming%20Industry%20Overview.png">
 <img src="https://github.com/bbinvt/project-group-4/blob/main/Visuals/Top%20Game%20Publishers.png"> 
-
-## Presentation Structure
-### Project Overview
-- Dataset overview (where we started)
-- Why we selected this topic
-
-### Interesting Highlights
-- Bestselling game globally and it's platform
-- Top user score game globally and it's platform
-- Top critic score game globally and it's platform
-- Top genre by each market
-
-### Questions Answered
-- Can we predict global revenues within the first year of a new game's release? Discover the key features for rev. predictions
-- Is there a direct connection between score, rating, & sales?
-### Methodology
-- Tools we use
-- Models we use
-- How we improved the model
-### Results
-- Prediction results
-- Accuracy score
-- Visuals from both Python and Tableau
 
 # Deliverable 3: Put it All Together
 
